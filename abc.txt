@@ -1,3 +1,19 @@
-asfwerwerwerwe
-werwerwerw
-werwerwer
+<<<<<<< HEAD
+asdffwerwerwerwe
+
+
+sfwerweqrrwewerw
+serw
+wer
+
+safwer
+=======
+asdffwerwerwerwe
+
+
+sfwerweqrrwewerw
+serw
+wer
+
+safwer
+>>>>>>> master
