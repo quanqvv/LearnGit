@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 sfwerweqrrwewerw
 safwer
+=======
+>>>>>>> cbf738144d76ba796ad19a134d539044d717e5e2
