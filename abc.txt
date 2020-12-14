@@ -1,19 +1,10 @@
-<<<<<<< HEAD
 asdffwerwerwerwe
 
 
 sfwerweqrrwewerw
 serw
-wer
+werserwe
+
 
 safwer
-=======
-asdffwerwerwerwe
 
-
-sfwerweqrrwewerw
-serw
-wer
-
-safwer
->>>>>>> master
